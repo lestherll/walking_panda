@@ -1,4 +1,4 @@
-# CSC1034: Practical 1
+# Walking Panda
 
 ## Intro
 This package is built as a part of the CSC1034: Portfolio-1. 
